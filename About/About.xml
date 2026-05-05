@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Rocket's Ranks USAF</name>
+  <author>Rocket</author>
+  <packageId>rockets.ranks.usaf</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>An expansion rank pack for Rocket's Ranks, adding USAF enlisted ranks.</description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+    </li>
+    <li>
+      <packageId>rockets.ranks</packageId>
+      <displayName>Rocket's Ranks</displayName>
+    </li>
+  </modDependencies>
+  	<loadAfter>
+		<li>rockets.ranks</li>
+	</loadAfter>
+</ModMetaData>

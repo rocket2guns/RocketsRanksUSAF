@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<!-- Enlisted -->
+
+	<ThingDef ParentName="ROCKET_Ranks_Enlisted">
+		<defName>ROCKET_Ranks_Amn_USAF</defName>
+		<label>airman rank</label>
+		<description>A pair of ornamental shoulder pieces for airmen.</description>
+		<graphicData>
+			<texPath>Things/Apparel/USAF/OR2/Rank</texPath>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/USAF/OR2/Rank</wornGraphicPath>
+		</apparel>
+		<modExtensions Inherit="True">
+			<li Class="RocketsRanks.RankExtension">
+				<requiredRank>Rank_Airman_USAF</requiredRank>
+			</li>
+		</modExtensions>
+		<uiOrder>3</uiOrder>
+	</ThingDef>
+
+	<ThingDef ParentName="ROCKET_Ranks_Enlisted">
+		<defName>ROCKET_Ranks_A1C_USAF</defName>
+		<label>airman first class rank</label>
+		<description>A pair of ornamental shoulder pieces for airmen first class.</description>
+		<graphicData>
+			<texPath>Things/Apparel/USAF/OR3/Rank</texPath>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/USAF/OR3/Rank</wornGraphicPath>
+		</apparel>
+		<modExtensions Inherit="True">
+			<li Class="RocketsRanks.RankExtension">
+				<requiredRank>Rank_AirmanFirstClass_USAF</requiredRank>
+			</li>
+		</modExtensions>
+		<uiOrder>4</uiOrder>
+	</ThingDef>
+
+	<ThingDef ParentName="ROCKET_Ranks_Enlisted">
+		<defName>ROCKET_Ranks_SrA_USAF</defName>
+		<label>senior airman rank</label>
+		<description>A pair of ornamental shoulder pieces for senior airmen.</description>
+		<graphicData>
+			<texPath>Things/Apparel/USAF/OR4/Rank</texPath>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/USAF/OR4/Rank</wornGraphicPath>
+		</apparel>
+		<modExtensions Inherit="True">
+			<li Class="RocketsRanks.RankExtension">
+				<requiredRank>Rank_SeniorAirman_USAF</requiredRank>
+			</li>
+		</modExtensions>
+		<uiOrder>5</uiOrder>
+	</ThingDef>
+
+	<ThingDef ParentName="ROCKET_Ranks_Enlisted">
+		<defName>ROCKET_Ranks_SSgt_USAF</defName>
+		<label>sergeant rank</label>
+		<description>A pair of ornamental shoulder pieces for staff sergeants.</description>
+		<graphicData>
+			<texPath>Things/Apparel/USAF/OR5/Rank</texPath>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/USAF/OR5/Rank</wornGraphicPath>
+		</apparel>
+		<modExtensions Inherit="True">
+			<li Class="RocketsRanks.RankExtension">
+				<requiredRank>Rank_StaffSergeant_USAF</requiredRank>
+			</li>
+		</modExtensions>
+		<uiOrder>6</uiOrder>
+	</ThingDef>
+
+	<ThingDef ParentName="ROCKET_Ranks_Enlisted">
+		<defName>ROCKET_Ranks_TSgt_USAF</defName>
+		<label>technical sergeant rank</label>
+		<description>A pair of ornamental shoulder pieces for technical sergeants.</description>
+		<graphicData>
+			<texPath>Things/Apparel/USAF/OR6/Rank</texPath>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/USAF/OR6/Rank</wornGraphicPath>
+		</apparel>
+		<modExtensions Inherit="True">
+			<li Class="RocketsRanks.RankExtension">
+				<requiredRank>Rank_TechnicalSergeant_USAF</requiredRank>
+			</li>
+		</modExtensions>
+		<uiOrder>7</uiOrder>
+	</ThingDef>
+
+	<ThingDef ParentName="ROCKET_Ranks_Enlisted">
+		<defName>ROCKET_Ranks_MSgt_USAF</defName>
+		<label>master sergeant rank</label>
+		<description>A pair of ornamental shoulder pieces for master sergeants.</description>
+		<graphicData>
+			<texPath>Things/Apparel/USAF/OR7a/Rank</texPath>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/USAF/OR7a/Rank</wornGraphicPath>
+		</apparel>
+		<modExtensions Inherit="True">
+			<li Class="RocketsRanks.RankExtension">
+				<requiredRank>Rank_MasterSergeant_USAF</requiredRank>
+			</li>
+		</modExtensions>
+		<uiOrder>8</uiOrder>
+	</ThingDef>
+
+	<ThingDef ParentName="ROCKET_Ranks_Enlisted">
+		<defName>ROCKET_Ranks_FSgt_USAF</defName>
+		<label>first sergeant rank</label>
+		<description>A pair of ornamental shoulder pieces for first sergeants.</description>
+		<graphicData>
+			<texPath>Things/Apparel/USAF/OR7b/Rank</texPath>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/USAF/OR7b/Rank</wornGraphicPath>
+		</apparel>
+		<modExtensions Inherit="True">
+			<li Class="RocketsRanks.RankExtension">
+				<requiredRank>Rank_FirstSergeant_USAF</requiredRank>
+			</li>
+		</modExtensions>
+		<uiOrder>9</uiOrder>
+	</ThingDef>
+
+	<ThingDef ParentName="ROCKET_Ranks_Enlisted">
+		<defName>ROCKET_Ranks_SMSgt_USAF</defName>
+		<label>senior master sergeant rank</label>
+		<description>A pair of ornamental shoulder pieces for senior master sergeants.</description>
+		<graphicData>
+			<texPath>Things/Apparel/USAF/OR8a/Rank</texPath>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/USAF/OR8a/Rank</wornGraphicPath>
+		</apparel>
+		<modExtensions Inherit="True">
+			<li Class="RocketsRanks.RankExtension">
+				<requiredRank>Rank_SeniorMasterSergeant_USAF</requiredRank>
+			</li>
+		</modExtensions>
+		<uiOrder>10</uiOrder>
+	</ThingDef>
+
+	<ThingDef ParentName="ROCKET_Ranks_Enlisted">
+		<defName>ROCKET_Ranks_SFSgt_USAF</defName>
+		<label>senior first sergeant rank</label>
+		<description>A pair of ornamental shoulder pieces for senior first sergeants.</description>
+		<graphicData>
+			<texPath>Things/Apparel/USAF/OR8b/Rank</texPath>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/USAF/OR8b/Rank</wornGraphicPath>
+		</apparel>
+		<modExtensions Inherit="True">
+			<li Class="RocketsRanks.RankExtension">
+				<requiredRank>Rank_SeniorFirstSergeant_USAF</requiredRank>
+			</li>
+		</modExtensions>
+		<uiOrder>11</uiOrder>
+	</ThingDef>
+
+	<ThingDef ParentName="ROCKET_Ranks_Enlisted">
+		<defName>ROCKET_Ranks_CMSgt_USAF</defName>
+		<label>chief master sergeant rank</label>
+		<description>A pair of ornamental shoulder pieces for chief master sergeants.</description>
+		<graphicData>
+			<texPath>Things/Apparel/USAF/OR9a/Rank</texPath>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/USAF/OR9a/Rank</wornGraphicPath>
+		</apparel>
+		<modExtensions Inherit="True">
+			<li Class="RocketsRanks.RankExtension">
+				<requiredRank>Rank_ChiefMasterSergeant_USAF</requiredRank>
+			</li>
+		</modExtensions>
+		<uiOrder>12</uiOrder>
+	</ThingDef>
+
+	<ThingDef ParentName="ROCKET_Ranks_Enlisted">
+		<defName>ROCKET_Ranks_CFSgt_USAF</defName>
+		<label>chief first sergeant rank</label>
+		<description>A pair of ornamental shoulder pieces for chief first sergeants.</description>
+		<graphicData>
+			<texPath>Things/Apparel/USAF/OR9b/Rank</texPath>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/USAF/OR9b/Rank</wornGraphicPath>
+		</apparel>
+		<modExtensions Inherit="True">
+			<li Class="RocketsRanks.RankExtension">
+				<requiredRank>Rank_ChiefFirstSergeant_USAF</requiredRank>
+			</li>
+		</modExtensions>
+		<uiOrder>13</uiOrder>
+	</ThingDef>
+
+	<ThingDef ParentName="ROCKET_Ranks_Enlisted">
+		<defName>ROCKET_Ranks_CCM_USAF</defName>
+		<label>command chief master sergeant rank</label>
+		<description>A pair of ornamental shoulder pieces for command chief master sergeants.</description>
+		<graphicData>
+			<texPath>Things/Apparel/USAF/OR9c/Rank</texPath>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/USAF/OR9c/Rank</wornGraphicPath>
+		</apparel>
+		<modExtensions Inherit="True">
+			<li Class="RocketsRanks.RankExtension">
+				<requiredRank>Rank_CommandChiefMasterSergeant_USAF</requiredRank>
+			</li>
+		</modExtensions>
+		<uiOrder>14</uiOrder>
+	</ThingDef>
+
+	<ThingDef ParentName="ROCKET_Ranks_Enlisted">
+		<defName>ROCKET_Ranks_CMSAF_USAF</defName>
+		<label>chief master sergeant of the air force rank</label>
+		<description>A pair of ornamental shoulder pieces for the chief master sergeant of the air force.</description>
+		<graphicData>
+			<texPath>Things/Apparel/USAF/OR9d/Rank</texPath>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Things/Apparel/USAF/OR9d/Rank</wornGraphicPath>
+		</apparel>
+		<modExtensions Inherit="True">
+			<li Class="RocketsRanks.RankExtension">
+				<requiredRank>Rank_ChiefMasterSergeantOfTheAirForce_USAF</requiredRank>
+			</li>
+		</modExtensions>
+		<uiOrder>15</uiOrder>
+	</ThingDef>
+
+</Defs>

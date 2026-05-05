@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <RocketsRanks.RankPackDef>
+    <defName>CoreAirforce</defName>
+    <label>Airforce (US)</label>
+    <description>The U.S. Airforce enlisted rank set bundled with Rocket's Ranks.</description>
+  </RocketsRanks.RankPackDef>
+
+</Defs>

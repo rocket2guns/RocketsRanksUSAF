@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <RocketsRanks.RankDef>
+    <defName>Rank_Airman_USAF</defName>
+    <label>airman</label>
+    <description>The entry-level rank. A colonist who has been formally enlisted.</description>
+    <rankLevel>1</rankLevel>
+    <iconPath>UI/USAF/OR2</iconPath>
+    <pack>CoreAirforce</pack>
+  </RocketsRanks.RankDef>
+
+  <RocketsRanks.RankDef>
+    <defName>Rank_AirmanFirstClass_USAF</defName>
+    <label>airman first class</label>
+    <description>A qualified soldier. The first promotion a colonist soldier receives.</description>
+    <rankLevel>2</rankLevel>
+    <iconPath>UI/USAF/OR3</iconPath>
+    <pack>CoreAirforce</pack>
+  </RocketsRanks.RankDef>
+
+  <RocketsRanks.RankDef>
+    <defName>Rank_SeniorAirman_USAF</defName>
+    <label>senior airman</label>
+    <description>A junior non-commissioned officer. Entrusted with leading a small team.</description>
+    <rankLevel>3</rankLevel>
+    <iconPath>UI/USAF/OR4</iconPath>
+    <pack>CoreAirforce</pack>
+  </RocketsRanks.RankDef>
+
+  <RocketsRanks.RankDef>
+    <defName>Rank_StaffSergeant_USAF</defName>
+    <label>sergeant</label>
+    <description>A seasoned non-commissioned officer responsible for discipline and training.</description>
+    <rankLevel>4</rankLevel>
+    <iconPath>UI/USAF/OR5</iconPath>
+    <pack>CoreAirforce</pack>
+  </RocketsRanks.RankDef>
+  
+  <RocketsRanks.RankDef>
+    <defName>Rank_TechnicalSergeant_USAF</defName>
+    <label>technical sergeant</label>
+    <description>A senior non-commissioned officer with significant experience and leadership responsibilities.</description>
+    <rankLevel>5</rankLevel>
+    <iconPath>UI/USAF/OR6</iconPath>
+    <pack>CoreAirforce</pack>
+  </RocketsRanks.RankDef>
+  
+  <RocketsRanks.RankDef>
+    <defName>Rank_MasterSergeant_USAF</defName>
+    <label>master sergeant</label>
+    <description>A senior non-commissioned officer with significant experience and leadership responsibilities.</description>
+    <rankLevel>6</rankLevel>
+    <iconPath>UI/USAF/OR7a</iconPath>
+    <pack>CoreAirforce</pack>
+  </RocketsRanks.RankDef>
+  
+  <RocketsRanks.RankDef>
+    <defName>Rank_FirstSergeant_USAF</defName>
+    <label>first sergeant</label>
+    <description>A highly experienced non-commissioned officer with extensive leadership and management skills.</description>
+    <rankLevel>7</rankLevel>
+    <iconPath>UI/USAF/OR7b</iconPath>
+    <pack>CoreAirforce</pack>
+  </RocketsRanks.RankDef>
+  
+  <RocketsRanks.RankDef>
+    <defName>Rank_SeniorMasterSergeant_USAF</defName>
+    <label>senior master sergeant</label>
+    <description>The highest-ranking non-commissioned officer, responsible for overall discipline and operations.</description>
+    <rankLevel>8</rankLevel>
+    <iconPath>UI/USAF/OR8a</iconPath>
+    <pack>CoreAirforce</pack>
+  </RocketsRanks.RankDef>
+  
+  <RocketsRanks.RankDef>
+    <defName>Rank_SeniorFirstSergeant_USAF</defName>
+    <label>senior first sergeant</label>
+    <description>The highest-ranking non-commissioned officer, responsible for overall discipline and operations.</description>
+    <rankLevel>9</rankLevel>
+    <iconPath>UI/USAF/OR8b</iconPath>
+    <pack>CoreAirforce</pack>
+  </RocketsRanks.RankDef>
+  
+  <RocketsRanks.RankDef>
+    <defName>Rank_ChiefMasterSergeant_USAF</defName>
+    <label>chief master sergeant</label>
+    <description>The highest-ranking non-commissioned officer of a color-bearing Army unit (battalion or higher).</description>
+    <rankLevel>10</rankLevel>
+    <iconPath>UI/USAF/OR9a</iconPath>
+    <pack>CoreAirforce</pack>
+  </RocketsRanks.RankDef>
+  
+  <RocketsRanks.RankDef>
+    <defName>Rank_ChiefFirstSergeant_USAF</defName>
+    <label>chief first sergeant</label>
+    <description>The senior enlisted advisor to the commander of a major command, field operating agency, or direct reporting unit.</description>
+    <rankLevel>11</rankLevel>
+    <iconPath>UI/USAF/OR9b</iconPath>
+    <pack>CoreAirforce</pack>
+  </RocketsRanks.RankDef>
+  
+  <RocketsRanks.RankDef>
+    <defName>Rank_CommandChiefMasterSergeant_USAF</defName>
+    <label>command chief master sergeant</label>
+    <description>The senior enlisted advisor to the commander of a major command, field operating agency, or direct reporting unit.</description>
+    <rankLevel>12</rankLevel>
+    <iconPath>UI/USAF/OR9c</iconPath>
+    <pack>CoreAirforce</pack>
+  </RocketsRanks.RankDef>
+  
+  <RocketsRanks.RankDef>
+    <defName>Rank_ChiefMasterSergeantOfTheAirForce_USAF</defName>
+    <label>chief master sergeant of the air force</label>
+    <description>The senior enlisted advisor to the chief of staff of the air force.</description>
+    <rankLevel>13</rankLevel>
+    <iconPath>UI/USAF/OR9d</iconPath>
+    <pack>CoreAirforce</pack>
+  </RocketsRanks.RankDef>
+  
+
+</Defs>
